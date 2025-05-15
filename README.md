@@ -9,5 +9,9 @@ puerto: http -> 80 y https -> 443
 
 - Una base de datos que almacena pares de dominios e IPs
 - Traduce un nombre de dominio a una direccion IP
-# servidores-scesi
-# servidores-scesi
+
+## BASES DE DATOS:
+
+- Usa el puerto que quieras
+- Gestion de datos
+- mysql -> 3306 y postgresql -> 5432
